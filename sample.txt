@@ -1,0 +1,16 @@
+squat 15
+pushUp 10
+squatFT 15
+iRowHigh 10
+walkLunge 16
+cGPU 6
+rFESS 10
+iRowLow 7
+stepUp 20
+barPU 10
+sitUp 10
+iRowLowRevGrip 7
+legRaise 10
+PullUp 3
+Dip 3
+Sprint 6
