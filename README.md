@@ -1,4 +1,4 @@
-# Workout-Updater
+# Workout-Updater (Read this raw)
 This is a program that updates a series or circuit of calisthenic exercises as the user's training status changes.  It 
 was created using the python langauge and was designed to be run on a linux ubuntu operating system.  It was designed to 
 update a series or circuit of calisthenic exercises based on the training status of the athlete.  It needs to be initialized
