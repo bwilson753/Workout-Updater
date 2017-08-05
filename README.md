@@ -1,10 +1,9 @@
 # Workout-Updater (Read this raw)
 This is a program that updates a series or circuit of calisthenic exercises as the user's training status changes.  It 
-was created using the python langauge and was designed to be run on a linux ubuntu operating system.  It was designed to 
-update a series or circuit of calisthenic exercises based on the training status of the athlete.  It needs to be initialized
-by providing a workout written to a text file.  The workout should be written as a single set of one exercise followed by a number
-of repetitions.  Each exercise should be followed by a single space and each number of repetitions should be followed by a 
-newline whenever it is followed by another exercise.  For example,
+was created using the python langauge and was designed to be run on a linux ubuntu operating system.  It needs to be initialized
+by providing a workout written to a text file.  The workout should be written so that each line of the workout is written
+as a single set of one exercise followed by a number of repetitions.  Each exercise name should be followed by a single space and each 
+number of repetitions should be followed by a newline whenever it is followed by another exercise.  For example,
 pusUp 10
 squat 20
 invRow 10
